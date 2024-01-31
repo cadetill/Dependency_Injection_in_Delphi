@@ -1,2 +1,2 @@
 # Dependency_Injection_in_Delphi
-Dependency Injection in Delphi from Nick Hodges
+Código fuente del libro Dependency Injection in Delphi de Nick Hodges
